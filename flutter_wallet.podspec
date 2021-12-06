@@ -3,9 +3,10 @@ Pod::Spec.new do |spec|
 
   spec.name         = "flutter_wallet"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of flutter_wallet."
+  spec.summary      = "Test flutter section"
 
   spec.description  = <<-DESC
+    Just Test flutter section is OK
                    DESC
 
   spec.homepage     = "https://github.com/viabtc/viawallet_flutter"
